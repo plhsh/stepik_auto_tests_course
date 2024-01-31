@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-Solutions for course tests
+Solution for test 8 Section 2.4
